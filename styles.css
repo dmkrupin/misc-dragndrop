@@ -52,15 +52,15 @@ body {
 }
 
 .start {
-  background: linear-gradient(90deg, #ff85e4 0%, #229efd 179.25%);
+  background: tomato;
 }
 
 .progress {
-  background: linear-gradient(90deg, #209cff 0%, #68e0cf 100%);
+  background: linear-gradient(90deg, tomato 0%, lightgreen 100%);
 }
 
 .done {
-  background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+  background: lightgreen;
 }
 
 .hold {
